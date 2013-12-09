@@ -1,5 +1,6 @@
-Liste:
+Einkaufsliste:
 Apfel
 Birne
 Banane
 Zwiebeln
+Wir sollten dringend frische Milch besorgen
